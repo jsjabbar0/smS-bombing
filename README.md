@@ -1,6 +1,5 @@
-# sms-bombing
+# smS-bombing
 
-  </style>
 </head>
 <body>
   <h1>📱 SMS Bomber Tool Installation (Termux)</h1>
@@ -10,7 +9,7 @@ pkg install figlet -y
 pkg install requests -y
 pkg install git -y
 pkg install python -y
-git clone https://github.com/jsjabbar0/sms-bombing
+git clone https://github.com/jsjabbar0/smS-bombing
 cd sms-bombing
 python Bomb.py
   </pre>
