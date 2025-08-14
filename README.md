@@ -6,7 +6,7 @@
   <p>নিচের কমান্ডগুলো ধাপে ধাপে চালাও:</p>
   <pre>
 pkg install figlet -y
-pkg install requests -y
+pip install requests -y
 pkg install git -y
 pkg install python -y
 git clone https://github.com/jsjabbar0/smS-bombing
